@@ -1,0 +1,56 @@
+{"logTime": "1205/175103", "correlationVector":"dOS6av+tL4Ray6++1ukknz.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "1205/175111", "correlationVector":"UjyUk+CiA3u6qYNyjQx1vl.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL0100001V"}}
+{"logTime": "1205/175111", "correlationVector":"UjyUk+CiA3u6qYNyjQx1vl.2","action":"AAD.Mip.Unpack", "result":"Success", "context":MIP_CLOUD_COMMERCIAL:Success}
+{"logTime": "1205/175111", "correlationVector":"UjyUk+CiA3u6qYNyjQx1vl.3","action":"AAD.GetKeyResponse", "result":"Success", "context":Keys=5.LastKeyStatus=Normal. 2022-07-10 14:33:00 -05.State=None. Tags: Current_encryption_keys_tag = EWNMIEzvv70f77+9P3U9RO+/vQHvv73vv712T++/vVNSCgYm77+9TOiHvhY=, Updated_current_encryption_keys_tag = Empty}
+{"logTime": "1205/175154", "correlationVector":"UjyUk+CiA3u6qYNyjQx1vl","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=UjyUk+CiA3u6qYNyjQx1vl}
+{"logTime": "1205/175201", "correlationVector":"UjyUk+CiA3u6qYNyjQx1vl.4","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 1 update(s). cV=UjyUk+CiA3u6qYNyjQx1vl.0;server=GENERAL0100001V;cloudType=Multitenant;environment=Prod_EastUS2_000e}
+{"logTime": "1205/175230", "correlationVector":"Ti/Eq+l64T1PW6uKVgoCTl","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=Ti/Eq+l64T1PW6uKVgoCTl}
+{"logTime": "1205/175238", "correlationVector":"Ti/Eq+l64T1PW6uKVgoCTl.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL0100002F"}}
+{"logTime": "1205/175239", "correlationVector":"Ti/Eq+l64T1PW6uKVgoCTl.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 10 update(s). cV=Ti/Eq+l64T1PW6uKVgoCTl.0;server=GENERAL0100002F;cloudType=Multitenant;environment=Prod_EastUS2_000e}
+{"logTime": "1205/175241", "correlationVector":"C0uyCBOn7rfjNZPC+iSQHP","action":"Normal GetUpdate request", "result":"", "context":cV=C0uyCBOn7rfjNZPC+iSQHP
+Nudged types: Device Info, User Consents
+Refresh requested types: Device Info, User Consents, Send Tab To Self, Encryption Keys}
+{"logTime": "1205/175241", "correlationVector":"C0uyCBOn7rfjNZPC+iSQHP.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL0100002K"}}
+{"logTime": "1205/175244", "correlationVector":"C0uyCBOn7rfjNZPC+iSQHP.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 0 update(s). cV=C0uyCBOn7rfjNZPC+iSQHP.0;server=GENERAL0100002K;cloudType=Multitenant;environment=Prod_EastUS2_000e}
+{"logTime": "1205/175245", "correlationVector":"IeZfrnJOJW2lzhhb4Sq9eC","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Device Info}
+{"logTime": "1205/175245", "correlationVector":"IeZfrnJOJW2lzhhb4Sq9eC.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL0100002B"}}
+{"logTime": "1205/175246", "correlationVector":"IeZfrnJOJW2lzhhb4Sq9eC.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=IeZfrnJOJW2lzhhb4Sq9eC.0;server=GENERAL0100002B;cloudType=Multitenant;environment=Prod_EastUS2_000e}
+{"logTime": "1205/175246", "correlationVector":"anNjwo82jdsB21iTMT2zkb","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: User Consents}
+{"logTime": "1205/175247", "correlationVector":"anNjwo82jdsB21iTMT2zkb.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL01000020"}}
+{"logTime": "1205/175248", "correlationVector":"anNjwo82jdsB21iTMT2zkb.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=anNjwo82jdsB21iTMT2zkb.0;server=GENERAL01000020;cloudType=Multitenant;environment=Prod_EastUS2_000e}
+{"logTime": "1205/175248", "correlationVector":"v7lZykTvYtfmJPjw54m/m7","action":"Normal GetUpdate request", "result":"", "context":cV=v7lZykTvYtfmJPjw54m/m7
+Nudged types: Device Info}
+{"logTime": "1205/175249", "correlationVector":"v7lZykTvYtfmJPjw54m/m7.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL01000015"}}
+{"logTime": "1205/175250", "correlationVector":"v7lZykTvYtfmJPjw54m/m7.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 1 update(s). cV=v7lZykTvYtfmJPjw54m/m7.0;server=GENERAL01000015;cloudType=Multitenant;environment=Prod_EastUS2_000e}
+{"logTime": "1205/175702", "correlationVector":"WY9MODJWzg5BjnWCFIZeD9.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "1205/175703", "correlationVector":"+vPHyVbCYlcw9qjoS4JKTU.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL0100000D"}}
+{"logTime": "1205/175706", "correlationVector":"+vPHyVbCYlcw9qjoS4JKTU.2","action":"AAD.Mip.Unpack", "result":"Success", "context":MIP_CLOUD_COMMERCIAL:Success}
+{"logTime": "1205/175706", "correlationVector":"+vPHyVbCYlcw9qjoS4JKTU.3","action":"AAD.GetKeyResponse", "result":"Success", "context":Keys=5.LastKeyStatus=Normal. 2022-07-10 14:33:00 -05.State=None. Tags: Current_encryption_keys_tag = EWNMIEzvv70f77+9P3U9RO+/vQHvv73vv712T++/vVNSCgYm77+9TOiHvhY=, Updated_current_encryption_keys_tag = Empty}
+{"logTime": "1205/175707", "correlationVector":"+vPHyVbCYlcw9qjoS4JKTU","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=+vPHyVbCYlcw9qjoS4JKTU}
+{"logTime": "1205/175707", "correlationVector":"+vPHyVbCYlcw9qjoS4JKTU.4","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 1 update(s). cV=+vPHyVbCYlcw9qjoS4JKTU.0;server=GENERAL0100000D;cloudType=Multitenant;environment=Prod_EastUS2_000e}
+{"logTime": "1205/175708", "correlationVector":"WCW8tlr6RNwSeamhRcMuio","action":"Normal GetUpdate request", "result":"", "context":cV=WCW8tlr6RNwSeamhRcMuio
+Refresh requested types: Device Info, User Consents, Send Tab To Self, Encryption Keys}
+{"logTime": "1205/175708", "correlationVector":"WCW8tlr6RNwSeamhRcMuio.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL0100001J"}}
+{"logTime": "1205/175708", "correlationVector":"WCW8tlr6RNwSeamhRcMuio.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 0 update(s). cV=WCW8tlr6RNwSeamhRcMuio.0;server=GENERAL0100001J;cloudType=Multitenant;environment=Prod_EastUS2_000e}
+{"logTime": "1205/180302", "correlationVector":"aWzD7A1WA0tS5LnQgoRMOp.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "1205/180302", "correlationVector":"2wuaxzr3z5R2C1MxxayFmk.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL01000023"}}
+{"logTime": "1205/180305", "correlationVector":"2wuaxzr3z5R2C1MxxayFmk.2","action":"AAD.Mip.Unpack", "result":"Success", "context":MIP_CLOUD_COMMERCIAL:Success}
+{"logTime": "1205/180306", "correlationVector":"2wuaxzr3z5R2C1MxxayFmk.3","action":"AAD.GetKeyResponse", "result":"Success", "context":Keys=5.LastKeyStatus=Normal. 2022-07-10 14:33:00 -05.State=None. Tags: Current_encryption_keys_tag = EWNMIEzvv70f77+9P3U9RO+/vQHvv73vv712T++/vVNSCgYm77+9TOiHvhY=, Updated_current_encryption_keys_tag = Empty}
+{"logTime": "1205/180306", "correlationVector":"2wuaxzr3z5R2C1MxxayFmk","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=2wuaxzr3z5R2C1MxxayFmk}
+{"logTime": "1205/180306", "correlationVector":"2wuaxzr3z5R2C1MxxayFmk.4","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 1 update(s). cV=2wuaxzr3z5R2C1MxxayFmk.0;server=GENERAL01000023;cloudType=Multitenant;environment=Prod_EastUS2_000e}
+{"logTime": "1205/180306", "correlationVector":"KXIqVNFnF4MkIuejq2+2tX","action":"Normal GetUpdate request", "result":"", "context":cV=KXIqVNFnF4MkIuejq2+2tX
+Refresh requested types: Device Info, User Consents, Send Tab To Self, Encryption Keys}
+{"logTime": "1205/180307", "correlationVector":"KXIqVNFnF4MkIuejq2+2tX.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL0100000M"}}
+{"logTime": "1205/180307", "correlationVector":"KXIqVNFnF4MkIuejq2+2tX.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 0 update(s). cV=KXIqVNFnF4MkIuejq2+2tX.0;server=GENERAL0100000M;cloudType=Multitenant;environment=Prod_EastUS2_000e}
+{"logTime": "1205/181252", "correlationVector":"WpMf92Am1yJjrrnHjC5FpV.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "1205/181253", "correlationVector":"Q2Uy/WFiZeQPY0P4HdWqvh.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL01000026"}}
+{"logTime": "1205/181301", "correlationVector":"Q2Uy/WFiZeQPY0P4HdWqvh.2","action":"AAD.Mip.Unpack", "result":"Success", "context":MIP_CLOUD_COMMERCIAL:Success}
+{"logTime": "1205/181301", "correlationVector":"Q2Uy/WFiZeQPY0P4HdWqvh.3","action":"AAD.GetKeyResponse", "result":"Success", "context":Keys=5.LastKeyStatus=Normal. 2022-07-10 14:33:00 -05.State=None. Tags: Current_encryption_keys_tag = EWNMIEzvv70f77+9P3U9RO+/vQHvv73vv712T++/vVNSCgYm77+9TOiHvhY=, Updated_current_encryption_keys_tag = Empty}
+{"logTime": "1205/181301", "correlationVector":"Q2Uy/WFiZeQPY0P4HdWqvh","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=Q2Uy/WFiZeQPY0P4HdWqvh}
+{"logTime": "1205/181301", "correlationVector":"Q2Uy/WFiZeQPY0P4HdWqvh.4","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 1 update(s). cV=Q2Uy/WFiZeQPY0P4HdWqvh.0;server=GENERAL01000026;cloudType=Multitenant;environment=Prod_EastUS2_000e}
+{"logTime": "1205/181301", "correlationVector":"VyBQBqlbZNjxuyKJJszPqv","action":"Normal GetUpdate request", "result":"", "context":cV=VyBQBqlbZNjxuyKJJszPqv
+Refresh requested types: Device Info, User Consents, Send Tab To Self, Encryption Keys}
+{"logTime": "1205/181301", "correlationVector":"VyBQBqlbZNjxuyKJJszPqv.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "server":"GENERAL01000014"}}
+{"logTime": "1205/181301", "correlationVector":"VyBQBqlbZNjxuyKJJszPqv.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 0 update(s). cV=VyBQBqlbZNjxuyKJJszPqv.0;server=GENERAL01000014;cloudType=Multitenant;environment=Prod_EastUS2_000e}

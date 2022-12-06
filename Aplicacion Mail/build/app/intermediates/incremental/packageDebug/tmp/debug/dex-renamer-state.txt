@@ -1,0 +1,4 @@
+#Sun Jan 16 19:31:25 COT 2022
+base.0=D\:\\Data_User\\Docu\\UNIVERSIDAD\\FlutterCarp\\Email\\flutterlista\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
